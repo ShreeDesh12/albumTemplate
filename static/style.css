@@ -1,0 +1,21 @@
+.flex-row a{
+    color: #b2e4ee;
+}
+a{
+    text-decoration: none;
+}
+.padding div div{
+    padding: 10px;
+}
+#contact_form{
+    padding: 20px;
+    margin-left: 10%;
+    align-content: start;
+}
+#contact_form div{
+    padding: 10px;
+}
+#contact_form input{
+    width: 350px;
+}
+
